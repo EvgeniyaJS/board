@@ -1,0 +1,17 @@
+{
+  "name": "home_work-49-chess_board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "typescript": "^5.3.3"
+  }
+}
